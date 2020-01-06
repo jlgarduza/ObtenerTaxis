@@ -1,6 +1,6 @@
 <script>
 var config = {
-            apiKey: "AIzaSyDLU85ci7IWOiaKuhn_9e1qlQIIHmus0yY",
+            apiKey: "",
             authDomain: "rtu-cliente.firebaseapp.com",
             databaseURL: "https://rtu-cliente.firebaseio.com",
             projectId: "firebase-rtu-cliente",
